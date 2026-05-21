@@ -1,0 +1,71 @@
+# baseline
+🎯 Per-Class Dice Scores:
+Class 01: Dice = 0.8979
+Class 02: Dice = 0.7965
+Class 03: Dice = 0.6278
+Class 04: Dice = 0.8325
+Class 05: Dice = 0.6948
+Class 06: Dice = 0.8389
+Class 07: Dice = 0.6929
+Class 08: Dice = 0.7929
+Class 09: Dice = 0.9109
+Class 10: Dice = 0.7495
+Class 11: Dice = 0.6857
+Class 12: Dice = 0.7051
+Class 13: Dice = 0.7474
+Class 14: Dice = 0.7010
+Class 15: Dice = 0.7382
+Class 16: Dice = 0.7159
+Class 17: Dice = 0.9164
+Class 18: Dice = 0.8509
+Class 19: Dice = 0.8491
+Class 20: Dice = 0.7484
+Class 21: Dice = 0.7309
+Class 22: Dice = 0.8468
+Class 23: Dice = 0.8527
+
+✅ Overall Average Dice (excluding background): 0.7793
+
+📄 Per-Image Average Dice Scores:
+subject071.nii.gz: Dice = 0.8346
+subject089.nii.gz: Dice = 0.8285
+subject075.nii.gz: Dice = 0.8164
+subject077.nii.gz: Dice = 0.8141
+subject074.nii.gz: Dice = 0.8117
+subject073.nii.gz: Dice = 0.8080
+subject070.nii.gz: Dice = 0.8074
+subject088.nii.gz: Dice = 0.8041
+subject082.nii.gz: Dice = 0.8033
+subject068.nii.gz: Dice = 0.8028
+subject069.nii.gz: Dice = 0.7989
+subject065.nii.gz: Dice = 0.7984
+subject090.nii.gz: Dice = 0.7984
+subject097.nii.gz: Dice = 0.7980
+subject098.nii.gz: Dice = 0.7974
+subject076.nii.gz: Dice = 0.7966
+subject094.nii.gz: Dice = 0.7948
+subject064.nii.gz: Dice = 0.7939
+subject061.nii.gz: Dice = 0.7899
+subject080.nii.gz: Dice = 0.7888
+subject100.nii.gz: Dice = 0.7880
+subject066.nii.gz: Dice = 0.7861
+subject093.nii.gz: Dice = 0.7846
+subject091.nii.gz: Dice = 0.7831
+subject079.nii.gz: Dice = 0.7791
+subject085.nii.gz: Dice = 0.7763
+subject083.nii.gz: Dice = 0.7756
+subject096.nii.gz: Dice = 0.7752
+subject081.nii.gz: Dice = 0.7733
+subject063.nii.gz: Dice = 0.7733
+subject092.nii.gz: Dice = 0.7708
+subject101.nii.gz: Dice = 0.7665
+subject067.nii.gz: Dice = 0.7597
+subject095.nii.gz: Dice = 0.7525
+subject087.nii.gz: Dice = 0.7475
+subject072.nii.gz: Dice = 0.7353
+subject078.nii.gz: Dice = 0.7308
+subject062.nii.gz: Dice = 0.7298
+subject086.nii.gz: Dice = 0.7254
+subject099.nii.gz: Dice = 0.5718
+
+🏆 Best Predicted Image: subject071.nii.gz with Dice = 0.8346
