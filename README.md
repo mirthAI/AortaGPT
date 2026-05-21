@@ -170,25 +170,6 @@ build_aorta_graph_step3()
 
 ---
 
-# Folder Structure
-
-```text
-AortaGPT/
-│
-├── app.py                         # Main Gradio application
-├── controller/                    # LangGraph orchestration
-├── analysis/                      # Diameter computation
-├── segmentation/                  # Segmentation models
-├── super_resolution/              # SR models
-├── visualization/                 # Plotly + overlays
-├── reporting/                     # PDF generation
-├── utils/                         # Helper utilities
-├── outputs/                       # Saved reports/results
-├── figures/                       # README and paper figures
-└── requirements.txt
-```
-
----
 
 # Extending the Codebase
 
