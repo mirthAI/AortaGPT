@@ -1,0 +1,34 @@
+{
+    "channel_names": {
+        "0": "CT"
+    },
+    "labels": {
+        "background": 0,
+        "zone_1": 1,
+        "zone_2": 2,
+        "zone_3": 3,
+        "zone_4": 4,
+        "zone_5": 5,
+        "zone_6": 6,
+        "zone_7": 7,
+        "zone_8": 8,
+        "zone_9": 9,
+        "zone_10": 10,
+        "zone_11": 11,
+        "zone_12": 12,
+        "zone_13": 13,
+        "zone_14": 14,
+        "zone_15": 15,
+        "zone_16": 16,
+        "zone_17": 17,
+        "zone_18": 18,
+        "zone_19": 19,
+        "zone_20": 20,
+        "zone_21": 21,
+        "zone_22": 22,
+        "zone_23": 23
+    },
+    "numTraining": 100,
+    "file_ending": ".nii.gz",
+    "overwrite_image_reader_writer": "SimpleITKIO"
+}
